@@ -6,6 +6,7 @@ Object.defineProperty(exports, "__esModule", {
 exports["default"] = void 0;
 var _default = {
   products: [{
+    _id: '1',
     name: 'Slim Shirt',
     category: 'Shirts',
     image: '/images/d1.jpg',
@@ -14,6 +15,7 @@ var _default = {
     rating: 4.5,
     numReviews: 10
   }, {
+    _id: '2',
     name: 'Fit Shirt',
     category: 'Shirts',
     image: '/images/d1.jpg',
@@ -22,6 +24,7 @@ var _default = {
     rating: 3.5,
     numReviews: 10
   }, {
+    _id: '3',
     name: 'Best Pants',
     category: 'Pants',
     image: '/images/d1.jpg',
